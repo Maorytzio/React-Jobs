@@ -1,10 +1,15 @@
-# React + Vite
+# React Jobs CRUD APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This app allows to make CRUD operations for a Job
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ - First create a json-server for the API calls using the ```npm run server``` and then open a separate terminal window to run ```npm run dev```
 
-[Link to YouTube](https://youtu.be/LDB4uaJ87e0?t=8173)
+#### Homepage:
+![alt text](image.png)
+
+#### Add Job Page:
+![alt text](image-1.png)
+
+#### View Job Page:
+![alt text](image-2.png)
